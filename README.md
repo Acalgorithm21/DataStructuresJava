@@ -1,23 +1,28 @@
 # DataStructuresJava
 
+👋 Welcome
 
-Hello, welcome to my Datastructures repository, the purpose of this repository is to demostrate the
-concepts of abstract data types and their implementations using data strucutures along with common algoritms. 
-The code in this repository will be in the Java programming language and my goal is to demonstrate my 
-knowledge in this sector of computer science and cool implementations. This repository is for recruiters, 
-collaborators, and students. 
+Hello, and welcome to my Data Structures and Algorithms repository.
 
-Features included in this repository includes 
-1. Clean and readable java code
-2. Comments and explaionations explaining logic followed with Java best code practices
-3. Concepts including Time and Space Complexity followed by code examples
-4. Multiple approaches for important problems and comparisons
-5. Edge cases handled
+The purpose of this repository is to demonstrate my understanding of Abstract Data Types (ADTs) and their implementations using various data structures, along with commonly used algorithms.
+All implementations are written in Java, and my goal is to showcase my knowledge in this core area of Computer Science through clean, efficient, and well-structured solutions.
 
-Technologies used 
-1.Java(JDK)
-2.Jgrasp IDE
+This repository is intended for:
+💼 Recruiters
+🤝 Collaborators
+🎓 Students and learners
 
+🚀 Features Included:
 
+✔ Clean and readable Java code
+✔ Proper comments explaining logic and design decisions
+✔ Implementation following Java best coding practices
+✔ Time and Space Complexity analysis included with solutions
+✔ Multiple approaches for important problems with comparisons
+✔ Edge cases considered and handled
+
+🛠 Technologies Used
+Java (JDK)
+jGRASP IDE
 
 
