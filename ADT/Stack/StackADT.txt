@@ -1,0 +1,18 @@
+STACK 
+
+A stack is an abstract data type where elements are stacked on top of each other... Think of a stack of plates or a stack of books. In everyday life, you grab the desired book or desired plate from the stack. 
+
+In programming a stack is known to have a FIFO, (first in last out) data access order property. The very first item inserted into the stack (The plate at bottom), is the last plate to be taken out. 
+
+The title, of the book is on the front cover, lets assume that the books are all right-side up in a stack. The only book you see, is the one that you can directly access which is on the top. You do not see the names of the rest of the books as it is "hidden" by the item on top. In programming terms you can only retrieve and/or "peek" at the top element. In order to see all of the elements inside a stack you must remove the top item repeatedly until you reach your desired element. 
+
+The operations of a Stack are as follows:
+
+1. push()  // This method inserts elements to the top of the list
+2. pop()   // This method removes the top element of the stack
+3. peek()  // This method returns the top element of a stack with out removing the element from the stack 
+
+In my implementations I will insert the following helper methods within the interface: 
+
+1. is Empty() // This method checks to see if the stack is empty 
+2. Clear() // This method empties the stack 
